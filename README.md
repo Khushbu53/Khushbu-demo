@@ -1,4 +1,4 @@
-# worldld_map_geopandas.py
+
 """
 Plot a world map using geopandas' built-in Natural Earth dataset.
 Requires: geopandas, matplotlib
